@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a great FullStack Developer <br>🌱 I’m currently learning TypeScript<br>⚡ Fun fact: When I visit my family there is a hard battle with tabletop games. 
+🔭 I’m currently working on becoming a great Full Stack Developer <br>🌱 I’m currently learning TypeScript<br>⚡ Fun fact: When I visit my family there is a hard battle with tabletop games. 
 
 
 # 💻 Tech Stack:
