@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a great Fullstack Developer <br>🌱 I’m currently learning TypeScript 
+🔭 I’m currently working on becoming a great Full Stack Developer <br>🌱 I’m currently learning TypeScript 
 
 
 # 💻 Tech Stack:
